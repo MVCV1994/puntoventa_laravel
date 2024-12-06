@@ -45,6 +45,8 @@
         </div>
 
         <!-- Botón para guardar el producto -->
+        <!-- actualizacion -->
+
         <button type="submit" class="w-full py-3 bg-indigo-600 text-white font-semibold rounded-lg hover:bg-indigo-700 dark:bg-indigo-500 dark:hover:bg-indigo-400 transition duration-300">
             Guardar Producto
         </button>
